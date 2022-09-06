@@ -1,0 +1,13 @@
+{
+  "SKU": "LAKSN",
+  "nombre": "TV SADSA",
+  "precio": "68545",
+  "url": "tv.png",
+  "marca": "samsung",
+  "descripcion": "smart TV de 40 pulgadas",
+  "iva": "0.19",
+  "descuento": "0.10",
+  "inventario": "15",
+  "fecha_creacion": "05/09/2022"
+  
+}
